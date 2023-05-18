@@ -1,8 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
+About Me:
 
-**KagisoRabeng/KagisoRabeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am eager to jumpstart my career and contribute to a team in a meaningful way. While I may be new to the industry, I bring a fresh perspective, a strong work ethic, and a willingness to learn and grow. I am excited to connect with professionals in this field and explore opportunities that will allow me to develop my skills and make a positive impact.😃😎
 
+Here are some of my projects:
+
+-My digital resume. 
+-I created this project that potrays my skills and experience. 
+-Built with HTML & CSS. 
+-Project deployed on GitHub pages.
+https://github.com/KagisoRabeng/KAGRAB964_BCL2302_groupChanique_KagisoRabeng_ITW9.git
 
 
 - 🔭 I’m currently working on ...
