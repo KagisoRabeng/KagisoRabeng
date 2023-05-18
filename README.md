@@ -1,8 +1,5 @@
 # Hi there 👋
 
-About Me:
-
-I am eager to jumpstart my career and contribute to a team in a meaningful way. While I may be new to the industry, I bring a fresh perspective, a strong work ethic, and a willingness to learn and grow. I am excited to connect with professionals in this field and explore opportunities that will allow me to develop my skills and make a positive impact.😃😎
 
 Here are some of my projects:
 
