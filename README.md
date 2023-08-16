@@ -37,11 +37,11 @@ I am eager to jumpstart my career and contribute to a team in a meaningful way. 
 <br/>  
 
 ## Recent Projects
-- My final capstone for JavaScript: Interactive Web Apps (IWA). For this project I had to debug a book website. HTML and CSS were already created, I was only required to change the JavaScript. Here is a link:
+- My final capstone for JavaScript: Interactive Web Apps (IWA). For this project, I had to debug a book website. HTML and CSS were already created, I was only required to change the JavaScript. Here is a link:
 - https://github.com/KagisoRabeng/KAGRAB964_BCL2302_groupChanique_KagisoRabeng_IWA19.git
 
-- The following is another IWA challenge whereby I had to debug a restuarant order. Here is a link:
--
+- The following is another IWA challenge whereby I had to debug a restaurant order. Here is a link:
+- https://github.com/KagisoRabeng/KAGRAB964_BCL2302_groupChanique_KagisoRabeng_IWA19.git
 
 -This is my digital resume created with only HTML and CSS. Here is a link:
 -https://github.com/KagisoRabeng/KAGRAB964_BCL2302_groupChanique_KagisoRabeng_ITW9.git
