@@ -19,7 +19,7 @@ I am eager to jumpstart my career and contribute to a team in a meaningful way. 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🌱 I’m currently learning Next.js  
   
@@ -27,11 +27,7 @@ I am eager to jumpstart my career and contribute to a team in a meaningful way. 
 - ⚡ Fun fact: I use tab instead of spaces.  
 
 
-</td><td valign="top" width="50%">
 
-![Listening to on Spotify]()
-
-</td></tr></table>  
 
 <br/>  
 
