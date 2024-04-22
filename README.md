@@ -21,7 +21,7 @@ I am eager to jumpstart my career and contribute to a team in a meaningful way. 
 ## Rapidfire  
 
 
-- 🌱 I’m currently learning Next.js  
+- 🌱 I’m currently learning Python and SQL  
   
 
 - ⚡ Fun fact: I use tab instead of spaces.  
